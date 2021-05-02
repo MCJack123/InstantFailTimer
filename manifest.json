@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "InstantFailTimer",
+  "name": "InstantFailTimer",
+  "author": "JackMacWindows",
+  "version": "0.0.1",
+  "description": "Restarts a map if any misses are made during the start of the map.",
+  "gameVersion": "1.13.4",
+  "dependsOn": {
+    "BSIPA": "^4.1.4",
+    "BS Utils": "^1.8.0"
+  },
+  "features": []
+}
